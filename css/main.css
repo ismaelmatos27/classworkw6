@@ -1,0 +1,33 @@
+h1{
+  font-size: 100px;
+  font-weight: bold;
+  color: navy;
+  font-family: cursive;
+
+}
+.style2{
+  font-size: 50px;
+  color:green;
+  font-family: serif;
+}
+.hover{
+  text-align: center;
+  height: 250px;
+  width: 250px;
+  background-color:green;
+  opacity: 0.3;
+}
+h2{
+  font-size: 50px;
+  font-weight: bold;
+  color: navy;
+  font-family: cursive;
+
+}
+.third{
+  height: 450px;
+  width: 450px;
+  margin-left: 200px;
+  background-color:blue;
+  opacity: 0.3;
+}
